@@ -1,0 +1,9 @@
+npm-debug.log*
+node_modules/
+.nyc_output/
+data
+coverage/
+src/package.json
+docs
+.npm
+dist
